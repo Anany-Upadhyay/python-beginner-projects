@@ -11,3 +11,15 @@ This repository contains projects built whilst learning Python (2026)
     - Division
  
 More Projects Underway 
+------------------------
+
+## Project 2 : Advanced Calculator
+
+### Features :
+   - Multiple Operation selection
+   - Square Root
+   - Logarithm
+   - Division by Zero handling
+   - Negative input validation
+   - Loop for repeated calculations
+ ------------------------------------
