@@ -10,8 +10,9 @@ This repository contains projects built whilst learning Python (2026)
     - Multiplication
     - Division
  
-More Projects Underway 
+more Projects underway 
 ------------------------
+
 
 ## Project 2 : Advanced Calculator
 
