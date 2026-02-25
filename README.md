@@ -24,3 +24,12 @@ more Projects underway
    - Negative input validation
    - Loop for repeated calculations
  ------------------------------------
+
+## Project 3 : Word Guessing Game
+
+### Features :
+   - Secret Word guessing
+   - Limited attempts
+   - Loop-based game
+   - win/lose condition
+------------------------------------------
