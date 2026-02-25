@@ -1,5 +1,6 @@
 # Python-beginner-projects
 This repository contains projects built whilst learning Python (2026)
+
 ## Project 1 : Basic Calculator
 
 ### Features : 
@@ -9,10 +10,7 @@ This repository contains projects built whilst learning Python (2026)
     - Subtraction
     - Multiplication
     - Division
- 
-more Projects underway 
-------------------------
-
+ -------------------------------
 
 ## Project 2 : Advanced Calculator
 
